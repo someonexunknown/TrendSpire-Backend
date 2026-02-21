@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import os
 import csv
 
@@ -28,6 +29,27 @@ def load_keywords_from_csv():
 
 # Dynamically load keywords from CSV
 KEYWORDS = load_keywords_from_csv()
+=======
+# config.py
+
+KEYWORDS = [
+    "oversized linen shirt",
+    "cargo pants men",
+    "relaxed fit jeans men",
+    "chino trousers men",
+    "men polo shirt",
+    "printed resort shirt",
+    "neon graphic tee",
+    "men jogger pants",
+    "men bomber jacket",
+    "men terry shorts",
+    "men kurta casual",
+    "men denim jacket",
+    "men track pants",
+    "men waffle tee",
+    "men co-ord set",
+]
+>>>>>>> d538cb6fd1283cbf5e3fc2816a648f147fb397f2
 
 # How long to keep cached results (in seconds). 12 hours.
 CACHE_TTL_SECONDS = 43200

@@ -1,4 +1,5 @@
 keyword,rank_today,rank_7d_ago,rank_30d_ago,weekly_sales_units,sales_4w_avg
+<<<<<<< HEAD
 men polo shirt,5,6,5,610,600
 cargo pants men,8,9,12,520,510
 men low profile sneakers,9,15,28,480,320
@@ -93,3 +94,20 @@ tracksuits men,97,96,95,15,18
 flannel jacket men,98,97,96,14,16
 armani jeans men,99,99,98,10,12
 baggy jeans men,100,100,100,8,10
+=======
+oversized linen shirt,12,30,55,340,210
+cargo pants men,8,9,12,520,510
+relaxed fit jeans men,22,28,35,280,260
+chino trousers men,18,17,20,310,315
+men polo shirt,5,6,5,610,600
+printed resort shirt,35,55,80,190,110
+neon graphic tee,68,50,40,90,130
+men jogger pants,14,20,30,370,290
+men bomber jacket,42,38,45,150,160
+men terry shorts,25,40,60,220,140
+men kurta casual,10,14,22,450,380
+men denim jacket,30,27,32,200,210
+men track pants,17,18,16,390,400
+men waffle tee,48,65,85,130,80
+men co-ord set,20,38,70,310,180
+>>>>>>> d538cb6fd1283cbf5e3fc2816a648f147fb397f2

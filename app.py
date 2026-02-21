@@ -74,7 +74,11 @@ def health():
 @app.route("/api/trends/summary", methods=["GET"])
 def summary():
     """
+<<<<<<< HEAD
     Returns a lightweight score summary for all active keywords.
+=======
+    Returns a lightweight score summary for all 15 keywords.
+>>>>>>> d538cb6fd1283cbf5e3fc2816a648f147fb397f2
     This powers the main dashboard list in the Flutter app.
     """
     results = []
